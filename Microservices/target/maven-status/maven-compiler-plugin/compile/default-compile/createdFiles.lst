@@ -1,0 +1,4 @@
+com\example\model\Devices.class
+com\example\MicroservicesApplication.class
+com\example\model\Device.class
+com\example\controller\DeviceController.class
